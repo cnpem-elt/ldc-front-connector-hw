@@ -39,6 +39,11 @@ IncludeDesignInRelease=0
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
 DocumentPath=ldc-front-connector-hw-library-pcb.PcbLib
 AnnotationEnabled=1
@@ -180,202 +185,102 @@ DocumentPath=bom-ldc-front-connector-hw.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ldc-front-connector-hw\Design Rule Check - panelize-pcb-ldc-front-connector-hw.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for ldc-front-connector-hw\Design Rule Check - pcb-ldc-front-connector-hw.html
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ldc-front-connector-hw\Fabrication Testpoint Report for panelize-pcb-ldc-front-connector-hw - embedded pcb-ldc-front-connector-hw.ipc
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ldc-front-connector-hw\Fabrication Testpoint Report for pcb-ldc-front-connector-hw.ipc
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ldc-front-connector-hw\panelize-pcb-ldc-front-connector-hw.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.REP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for ldc-front-connector-hw\pcb-ldc-front-connector-hw.TXT
 DItemRevisionGUID=
 
@@ -388,6 +293,26 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
